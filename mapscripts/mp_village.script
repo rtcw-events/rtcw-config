@@ -12,7 +12,7 @@ game_manager
 
 		wm_mapdescription			"Allied forces are attempting to retrieve and escape with treasure stolen from the Axis-occupied village."
 		wm_axis_respawntime		30
-		wm_allied_respawntime		25
+		wm_allied_respawntime		30
 
 		wm_set_round_timelimit	10
 
